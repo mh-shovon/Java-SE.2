@@ -5,7 +5,7 @@ import java.util.Random;
 public class GenerateRandomPassword {
     public static void main(String[] args) {
         String password= generateRandomPassword(8);
-        System.out.println(password);
+        System.out.println("new password is: " + password);
 
     }
     public static String generateRandomPassword(int len) {
