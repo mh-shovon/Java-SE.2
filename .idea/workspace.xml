@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aac89d4f-c488-4d14-a57b-fb24851d2921" name="Changes" comment="changes in random password">
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringManipulation/MyString1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringManipulation/MyString1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/StringManipulation/MyString1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/StringManipulation/MyString1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringManipulation/GetDigitsFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringManipulation/GetDigitsFromString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +61,9 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountWord">
-    <configuration name="CountChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation.CountChars" />
+  <component name="RunManager" selected="Application.RegEx">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManipulation.Exercise1" />
       <module name="Java-SE2.main" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation.CountWord" />
+    <configuration name="GenerateRandomPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManipulation.GenerateRandomPassword" />
       <module name="Java-SE2.main" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyString1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation.MyString1" />
+    <configuration name="RegEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManipulation.RegEx" />
       <module name="Java-SE2.main" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation.MyStringManipulation" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManipulation.ReverseString" />
+      <module name="Java-SE2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringManipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManipulation.TitleCase" />
       <module name="Java-SE2.main" />
       <extension name="coverage">
         <pattern>
@@ -106,10 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountWord" />
-        <item itemvalue="Application.CountChars" />
-        <item itemvalue="Application.MyString1" />
-        <item itemvalue="Application.MyStringManipulation" />
+        <item itemvalue="Application.RegEx" />
+        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.TitleCase" />
+        <item itemvalue="Application.GenerateRandomPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +148,8 @@
       <workItem from="1660904338350" duration="32000" />
       <workItem from="1660904402063" duration="5000" />
       <workItem from="1660909649699" duration="14837000" />
-      <workItem from="1660938491094" duration="793000" />
+      <workItem from="1660938491094" duration="866000" />
+      <workItem from="1660967006344" duration="3955000" />
     </task>
     <task id="LOCAL-00001" summary="learnig string manipulation using java">
       <created>1660932968650</created>
